@@ -1,3 +1,11 @@
+my-website
+==========
+
+I created my own website, based on makesite.py framework for static websites.
+
+Licensed under CC-BY 4.0 (content) and MIT License (code)
+
+
 makesite.py
 ===========
 
@@ -266,7 +274,7 @@ overview of what it does, here are the details:
     the final list template.
 
  6. Then it makes two `make_pages()` calls to render the home page and a
-    couple of other site pages: the [contact page](content/contact.html)
+    couple of other site pages: the [contact page](content/models.html)
     and the [about page](content/about.html).
 
  7. Then it makes two more `make_pages()` calls to render two blogs: one
